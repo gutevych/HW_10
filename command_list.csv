@@ -1,0 +1,35 @@
+    1  git config --global user.name "gutevych"
+    2  git config --global user.email iryna.gutevych@gmail.com
+    3  touch text_ignore.txt
+    4  get status
+    5  status
+    6  git status
+    7  git add
+    8  git add .
+    9  git commit
+   10  commit
+   11  git commit
+   12  git commit
+   13  git commit
+   14  git commit -m "Test"
+   15  touch main_test.txt
+   16  git add .
+   17  git commit -m "Test 2"
+   18  git checkout <branch-name>
+   19  git checkout <Test1>
+   20  git checkout Test1
+   21  git checkout -b Test1
+   22  git checkout Test1
+   23  touch develop_test.text
+   24  git add .
+   25  git commit -m "Test3"
+   26  git status
+   27  git add .
+   28  git commit -m "Test5"
+   29  git checkout HW_10
+   30  git checkout main
+   31  git merge Test1
+   32  git log
+   33  git BASH history > command_list.csv
+   34  git history > command_list.csv
+   35  history > command_list.csv

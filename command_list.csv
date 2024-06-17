@@ -1,6 +1,6 @@
     1  git config --global user.name "gutevych"
     2  git config --global user.email iryna.gutevych@gmail.com
-    3  git clone HW_10
+    3  git clone https://github.com/gutevych/HW_10.git
     4  touch text_ignore.txt
     5  get status
     6  status
